@@ -2,7 +2,7 @@
 <metadata modelVersion="1.1.0">
   <groupId>io.github.hengyunabc</groupId>
   <artifactId>mybatis-ehcache-spring</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>23.53.589.4</version>
   <versioning>
     <snapshot>
       <timestamp>20171205120000</timestamp>
